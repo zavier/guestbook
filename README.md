@@ -1,6 +1,6 @@
 # guestbook
 
-FIXME
+《Clojure Web开发实战》
 
 ## Prerequisites
 
